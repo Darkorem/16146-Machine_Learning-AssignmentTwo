@@ -1,5 +1,3 @@
 # 16146-Machine_Learning-AssignmentTwo
 
-Hello!
-I am currently a senior computer science mayjor at GSU.
-This is the repository for my Spring Semester 2023 Machine Learning Class.
+This is the google colab notebook for the 2nd assignment of my Machine Learning class.
